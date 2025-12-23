@@ -122,11 +122,6 @@ This is without even getting into the fact the some of these frameworks run diff
 - Module format (ESM, CJS, UMD, or mixed)
 - Native FormData usage vs framework abstraction
 
-#### Real User Monitoring (if available)
-- Chrome User Experience Report (CrUX) data
-- Real-world Core Web Vitals pass rate (% of origins passing CWV)
-- Median page load time in production
-- 75th percentile page load time
 
 ### 📋 Framework Context
 
